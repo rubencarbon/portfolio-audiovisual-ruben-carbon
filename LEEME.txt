@@ -1,7 +1,0 @@
-Portfolio Rubén Carbón - menos de 25 MB, audio corregido
-
-Versión optimizada para descargar y subir a hosting.
-Los vídeos son clips web ligeros con audio AAC normalizado.
-Se ha comprobado que cada MP4 tenga pista de audio.
-
-Para publicar: sube toda esta carpeta al hosting manteniendo index.html junto a assets/videos/.
